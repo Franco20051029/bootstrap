@@ -1,0 +1,17 @@
+h1{
+    color: rgb(117, 15, 15);
+    text-decoration: underline;
+}
+h5{
+    color: rgb(131, 74, 223);
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(2, 58, 2);
+
+}
+.fya {
+    width: 100px;
+    height: 70px;
+}
